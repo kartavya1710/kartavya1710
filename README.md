@@ -40,9 +40,9 @@ From voice-interactive bots to autonomous task agents, I focus on making AI not 
 
 ### 🚀 Featured Projects
 
-- 🧬 [**Dr. HeAlify – AI-Powered Doctor**](https://github.com/kartavya1710/Dr.-HeAlify): Summarizes medical reports using GenAI + NLP for real-time patient support.
 - 🗃️ [**LLM Task Executor**](https://github.com/kartavya1710): Voice-based multi-agent system using FastAPI, Cron, Slack, Telegram, and Binance.
 - 🗣️ [**Mock Interview AI**](https://github.com/kartavya1710): Real-time AI interviewer using UltraVox with voice input/output capabilities.
+- 🧬 [**Dr. HeAlify – AI-Powered Doctor**](https://github.com/kartavya1710/Dr.-HeAlify): Summarizes medical reports using GenAI + NLP for real-time patient support.
 - 📮 [**SMS Spam Classifier**](https://github.com/kartavya1710/sms-spam-classifier): NLP-based model with 96% accuracy.
 - 🎥 [**Movie Recommender**](https://github.com/kartavya1710/Movie-recommender): Scikit-learn + content-based filtering recommender.
 
@@ -54,15 +54,6 @@ From voice-interactive bots to autonomous task agents, I focus on making AI not 
 - 🤖 [AI Agents Fundamentals](https://www.credly.com/badges/e10b06fb-c347-4052-9fea-dccfdb5d8d74)
 - 🛠️ [Develop GenAI Apps with Gemini + Streamlit](https://www.mygreatlearning.com/certificate/JGBHGMTE)
 - 🔎 [Prompt Design in Vertex AI](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/248485f1d6c356c67779406bb0e1d471d41e72c43107142ee8400bfea9b0647e)
-
----
-
-### 🧠 Currently Learning
-
-- 🔄 LangGraph for dynamic agent flows
-- 🧩 Multi-agent systems with AutoGen
-- 🔗 Chainlit + Streamlit dashboards
-- 🌐 Full-stack AI applications without MERN stack
 
 ---
 
