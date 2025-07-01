@@ -48,15 +48,6 @@ From voice-interactive bots to autonomous task agents, I focus on making AI not 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartavya1710&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartavya1710&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
 ### 📚 Certifications & Learning
 
 - 🧠 [Prompt Engineering for ChatGPT](https://www.linkedin.com/in/kartavya-master-495222228/details/certifications/)
