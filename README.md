@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kartavya Master 👋</h1>
 
 <p align="center">
-  🚀 AI Developer | 🤖 Voice + LLM Agent Builder | 🧠 Prompt Engineer | 📊 NLP & RAG Enthusiast
+  🚀 GenAI Developer | 🧠 AI Agent Architect | 🤖 Voice + Backend | 🧠 Prompt Engineer | 📊 NLP & RAG Enthusiast
 </p>
 
 <p align="center">
@@ -15,23 +15,24 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 AI Developer with a B.Tech in AI & Data Science
-- 🎯 Specialize in GenAI apps, LLM Agents, RAG pipelines & Prompt Optimization
-- 🔊 Built voice-interactive AI systems with FastAPI, SQLite, and memory-enabled workflows
-- 📉 Reduced hallucination rates by 35% and token costs by 8x in deployed LLM workflows
-- 🔬 Love optimizing real-world AI solutions in **healthcare**, **legal**, and **automation**
+I'm a results-driven GenAI Developer with a B.Tech in Artificial Intelligence and Data Science, passionate about designing intelligent, production-ready systems. I specialize in building AI Agents, multi-platform workflows, and RAG-based pipelines that power real-world decision-making. My experience spans building backend infrastructures, optimizing prompts to reduce hallucinations, and integrating AI with tools like LangChain, FastAPI, SQLite, and custom MCP servers.
+
+From voice-interactive bots to autonomous task agents, I focus on making AI not only functional but reliable and efficient. I’ve consistently delivered AI solutions that reduce token costs, enhance output quality, and scale seamlessly across use cases like healthcare, law, and automation. Whether it's prompt engineering, vector store design, or backend orchestration, I aim to bridge the gap between smart models and usable systems.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=chainlink)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
+![RAG](https://img.shields.io/badge/-RAG-black?style=flat)
+![MCP Server](https://img.shields.io/badge/-MCP%20Server-black?style=flat)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-black?style=flat)
+![Backend](https://img.shields.io/badge/-Backend-black?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
 
